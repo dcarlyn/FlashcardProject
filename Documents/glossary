@@ -1,0 +1,9 @@
+Glossary
+
+Last Updated: December 16, 2016
+
+Folders:  These are containers that will hold a lists of cards
+Lists: There are containers that will hold cards
+Card: This is an object that will have data including the term, and definition which should be strings, but could be images. May also have attached to it data about studying
+Delete: an action to remove folders, lists and/or cards
+Results: Informaiton about studying habits and progress

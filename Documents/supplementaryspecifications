@@ -1,0 +1,35 @@
+Supplementary Specifications:
+
+Last Updated: December 16, 2016
+
+Usability:
+	The user should be able to create a folder, list, and individual cards by simple mouse clicks, and keyboard typing
+
+	The user should be able to navigate to their folders, list, and cards through mouse clicks
+
+	The user should be able to flip cards and respond with a correct or incorrect response through mouse clicks or button presses
+
+	The user should be able to delete cards/lists/folders through mouse clicks
+
+	The user should be able to navigate to the data center to view their studying progress through mouse clicks
+
+Reliability:
+	
+	The application should save all creations, deletions, and progress. Should not loss this data.
+
+Performance:
+	The application should have instant and accurate response time to user inputl
+
+Supportability:
+	Possible custom interface through colors
+	Possible pickable styles to view cards
+	Learns studying habits and makes suggestions
+
+Other:
+	Made with SDL, Visual Studio, C++
+
+User Interface:
+	Should have a simple to use user interface
+	May be customizable
+	Easy navigation
+

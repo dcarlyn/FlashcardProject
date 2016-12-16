@@ -1,0 +1,12 @@
+Vision Statement
+
+Last Update: December 16, 2016
+
+Project Name: Flashcards
+
+Purpose: This project's purpose is to be a learning experience for the recent software engineering topics that were learned in the Fall semester of 2016. These topics include the UP process, GRASP, SOLIDS, UML, etc.
+This project's second purpose is to also create an application that I and others can use if they want another form of studying.
+
+Use: Users will start the application, make folders, stacks of cards, and cards themselves. After they make these, they will then wanted to flip the flashcards to study. After each flip they will be asked if they got it right or wrong, this data will be stored so that the user can check the results of their studying later, so they know what topics they need to study more.
+
+There may be more additions to the project later, such as implementing a game into it to encourage more studying.
