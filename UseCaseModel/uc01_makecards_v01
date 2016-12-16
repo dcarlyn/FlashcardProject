@@ -1,0 +1,42 @@
+Use Case 1: Make Cards
+
+Scope: Within the Domain of the Flashcards System
+
+Level: User Goal
+
+Primary Actor: User
+
+Stakeholders:
+	User: To be able to study a topic by making cards that will be flipped
+
+Precondition:
+	User has already made a folder and list for their cards
+	User wants to make cards, clicks on make cards button
+
+Postcondition:
+	A card has been made, added to a list, and saved in the database
+
+Main Success Scenario:
+	1. Selects Folder
+	2. Selects List
+	3. Clicks Make Cards Button
+	4. Fills in information
+	5. Clicks Save
+
+Extensions:
+	1a. There is no folder, create new folder
+	2a. There is no list, create new list
+	4a. system fails, save intermediate data
+	5a. system fails, attempts to save data
+
+Special Requirements:
+	No special requirements other than needs to have a folder and list made
+
+Technology and Data Variations List:
+	User interface is used to for the user to make the cards
+
+Frequency of Occerence:
+	Used every time a user wants to add cards to a list, maybe 5 times a week.
+
+Miscellaneous:
+	Possible default set up for certain types of flashcards
