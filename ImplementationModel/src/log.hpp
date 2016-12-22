@@ -82,7 +82,5 @@ private:
 	Status type;
 };
 
-//Initial Initialization
-Log* Log::myUniqueLogInstance = nullptr;
 
 #endif
